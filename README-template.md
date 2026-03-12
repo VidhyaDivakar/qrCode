@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
+- [Reflections](#reflections)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -49,6 +50,16 @@ While working on this project, I practiced how to:
 - Keep the code simple and organized for small UI components
 
 This project helped reinforce my **HTML and CSS fundamentals** and gave me more confidence in building small frontend components.
+
+## Reflections
+
+##### What challenges did you encounter when aligning your code with the design specifications?
+
+One challenge was **centering the QR card exactly in the middle of the page** while maintaining the correct spacing around the image and text. I also had to adjust **padding, font sizes, and border radius** to closely match the design specifications. Another small challenge was making sure the **QR image scales properly inside the card** without affecting the layout.
+
+##### How can the feedback and community resources on Frontend Mentor help you improve as a developer?
+
+Frontend Mentor feedback and community solutions help by showing  **different ways developers approach the same problem** . By reviewing other solutions, I can learn  **better CSS practices, layout techniques, and cleaner code structure** . Community feedback also helps identify areas where the design can be matched more accurately, which improves my overall frontend development skills.
 
 ### Author
 
